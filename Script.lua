@@ -1,6 +1,6 @@
 -- JUJU HUB - Panel de Login para Roblox
-local KEY_CORRETA = "JUJUKEY24H"
-local SCRIPT_URL = "https://raw.githubusercontent.com/beiconmb-glitch/JUJU-HUB/refs/heads/main/Script.lua"
+local KEY_CORRETA = "JUJU-HGSCRIPT23"
+local SCRIPT_URL = "raw.githubusercontent.com/beiconmb-glitch/JUJU-HUB/refs/heads/main/Script.lua https://share.google/L4rTwGITbcOlYH2Np"
 
 -- Criando a Interface (ScreenGui)
 local ScreenGui = Instance.new("ScreenGui")

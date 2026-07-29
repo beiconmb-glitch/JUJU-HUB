@@ -1,5 +1,5 @@
 -- JUJU HUB - Panel de Login para Roblox
-local KEY_CORRETA = "JUJU-HGSCRIPT23"
+local KEY_CORRETA = "Otávio lindo flee"
 local SCRIPT_URL = "https://raw.githubusercontent.com/timmyVeryCrazy/FleeTheFacilityCheat/refs/heads/main/FleeTheFacilityCheatScript"
 
 -- Criando a Interface (ScreenGui)
@@ -14,7 +14,7 @@ local LoginBtn = Instance.new("TextButton")
 -- Configurando a tela principal
 ScreenGui.Parent = game:GetService("CoreGui") or game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui")
 
-MainFrame.Name = "JujuHubMain"
+MainFrame.Name = "OtávioFlee"
 MainFrame.Parent = ScreenGui
 MainFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 45)
 MainFrame.Position = UDim2.new(0.5, -125, 0.5, -75)

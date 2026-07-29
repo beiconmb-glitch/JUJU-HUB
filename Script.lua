@@ -22,10 +22,10 @@ MainFrame.Size = UDim2.new(0, 250, 0, 150)
 MainFrame.Active = true
 MainFrame.Draggable = true -- Deixa o painel arrastável!
 
--- Barra Superior (Rosa)
+-- Barra Superior (Azul)
 TopBar.Name = "TopBar"
 TopBar.Parent = MainFrame
-TopBar.BackgroundColor3 = Color3.fromRGB(255, 105, 180) -- Rosa
+TopBar.BackgroundColor3 = Color3.fromRGB(255, 105, 180) -- Azul
 TopBar.Size = UDim2.new(1, 0, 0, 30)
 
 -- Título no Topo
@@ -35,7 +35,7 @@ Title.BackgroundTransparency = 1
 Title.Position = UDim2.new(0, 10, 0, 0)
 Title.Size = UDim2.new(1, -40, 1, 0)
 Title.Font = Enum.Font.SourceSansBold
-Title.Text = "JUJU HUB"
+Title.Text = "Otávio Né bb"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.TextSize = 16
 Title.TextXAlignment = Enum.TextXAlignment.Left
@@ -67,7 +67,7 @@ KeyInput.Text = ""
 KeyInput.TextColor3 = Color3.fromRGB(255, 255, 255)
 KeyInput.TextSize = 14
 
--- Botão Entrar (Rosa)
+-- Botão Entrar (Azul)
 LoginBtn.Name = "LoginBtn"
 LoginBtn.Parent = MainFrame
 LoginBtn.BackgroundColor3 = Color3.fromRGB(255, 105, 180)
